@@ -1,3 +1,8 @@
-Jumping
-Singing
-Flying
+Energy
+Material
+Social
+Resource
+Active
+Passive
+Extreme
+Poetic
