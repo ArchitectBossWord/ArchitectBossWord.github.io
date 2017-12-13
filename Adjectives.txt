@@ -6,3 +6,6 @@ Active
 Passive
 Extreme
 Poetic
+Global
+Local
+Human
